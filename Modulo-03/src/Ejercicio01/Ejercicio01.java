@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package Ejercicio01;
-import java.util.Scanner;
+
 /**
  *
  * @author gonza
