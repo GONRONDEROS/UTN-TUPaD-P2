@@ -1,0 +1,12 @@
+# NetBeans project files
+/nbproject
+
+# Build artifacts
+/build/
+
+manifest.mf/
+README.md/
+
+# Maven/Gradle specific files (if applicable)
+/test/
+build/
